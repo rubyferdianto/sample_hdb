@@ -19,3 +19,6 @@ Y data:
 - affiliation: boolean value if the nearest secondary school has an primary school affiliation
 - sec_sch_latitude: latitude (in decimal degrees) of the the nearest secondary school
 - sec_sch_longitude: longitude (in decimal degrees) of the nearest secondary school
+
+
+create new jupyter notebook to analys schoold which related with area like Town, hdb_age, resale_price, floor_area_sqft, postal, Latitude, Longitude and devided by primary school and secondary school to find corelation and coherence within price and analyst others factor and plot with open-street-map
